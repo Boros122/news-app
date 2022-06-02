@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="general_network_error_message">Something went wrong</string>
+    <string name="search">Search</string>
+    <string name="content_description_search">Start search</string>
+    <string name="no_data">No data</string>
+    <string name="no_result">No result</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="front_page">Front page</string>
+</resources>
